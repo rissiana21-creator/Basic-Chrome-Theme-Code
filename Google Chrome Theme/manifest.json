@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Pink Cheetah Theme",
+  "version": "1.0",
+  "description": "A custom theme built from scratch.",
+  "theme": {
+    "images": {
+      "theme_frame": "images/YOUR-THEME-NAMEnpng",
+      "theme_ntp_background": "YOUR-THEME-NAME.png"
+    },
+    "colors": {
+      "frame": [30, 30, 30],
+      "toolbar": [45, 45, 45],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [180, 180, 180],
+      "ntp_background": [30, 30, 30],
+      "ntp_text": [255, 255, 255]
+    },
+    "tints": {
+      "buttons": [0.1, 0.5, 0.8]
+    }
+  }
+}
